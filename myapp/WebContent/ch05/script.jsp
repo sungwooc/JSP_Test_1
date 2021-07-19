@@ -12,6 +12,8 @@
  	 return declaration;
  	}
  %>
+ 
+ 
  <%
  	String scriptlet = "Scriptlet";
     String comment = "Comment";
